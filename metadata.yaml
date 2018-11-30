@@ -1,5 +1,8 @@
 _repo: Armenia-A-year-at-Erzeroom-and-on-the-frontiers-of-Russia-Turkey-and-Persia_58361
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58361-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Curzon, Robert
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '35824'
     url: http://www.gutenberg.org/2009/agents/35824
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58361#Armenia-A-year-at-Erzeroom-and-on-the-frontiers-of-Russia-Turkey-and-Persia
 gutenberg_issued: '2018-11-26'
 gutenberg_type: Text
 identifiers:
